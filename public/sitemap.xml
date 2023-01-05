@@ -2,10 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://yudishtira.github.io/post/hello/</loc>
+    <lastmod>2023-01-04T16:17:45-08:00</lastmod>
+  </url><url>
+    <loc>http://yudishtira.github.io/post/</loc>
+    <lastmod>2023-01-04T16:17:45-08:00</lastmod>
+  </url><url>
+    <loc>http://yudishtira.github.io/</loc>
+    <lastmod>2023-01-04T16:17:45-08:00</lastmod>
+  </url><url>
     <loc>http://yudishtira.github.io/categories/</loc>
   </url><url>
     <loc>http://yudishtira.github.io/tags/</loc>
-  </url><url>
-    <loc>http://yudishtira.github.io/</loc>
   </url>
 </urlset>
