@@ -1,0 +1,4 @@
+baseURL = 'http://yudishtira.github.io/'
+languageCode = 'en-us'
+title = 'yudishtira'
+theme = 'ananke'
